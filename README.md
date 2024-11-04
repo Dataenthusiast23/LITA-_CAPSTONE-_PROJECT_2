@@ -134,7 +134,7 @@ These notable revenue spikes in February and June, may be worth investigating fo
 
 
 
-Summary and Recommendations:
+   ### Summary and Recommendations:
 
 Product Strategy: Focus on products like Shoes, Gloves, and Socks as they generate both high revenue and quantity.
 Consider promotional efforts to boost sales for low-performing products, such as Jackets and Hats.
