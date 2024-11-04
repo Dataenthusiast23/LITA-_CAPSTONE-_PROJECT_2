@@ -12,3 +12,18 @@ products, regional performance and monthly Sales trends.
 ### Data Description
 ---
 
+The dataset includes the following fields:
+Customer Id: The unique identity
+OrderDate: Represent the transaction day
+Product:Product of category
+Quantity:Number of unit of product
+Region: Geographical location
+UnitPrice:Seling price of product
+
+### Basic statistics about the dataset:
+
+ - Total Sales: $2,101,090
+ - Total QUantity Sold: 68461 items
+ - NUmber of Unique Customers: 9921
+ - Number of Product Category: 6
+ - 
