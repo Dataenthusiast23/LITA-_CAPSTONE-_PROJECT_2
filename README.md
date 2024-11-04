@@ -1,7 +1,7 @@
 # LITA_CAPSTONE_PROJECT_2
 Sales Data: This is where you find the second report of my capstone project with the Incubator Hub 
 
-### Sales Store Analysis Report
+## Sales Store Analysis Report
 
 ### Introduction
 ---
@@ -28,15 +28,15 @@ UnitPrice:Seling price of product
  - NUmber of Unique Customers: 9921
  - Number of Product Category: 6
 
-## Methodology
+### Methodology
 ---
 
-## Data Collection
+### Data Collection
 ---
 
  The dataset for this analysis was provided by the Incubtor Hub, a Tech Skill training outfits.
 
-## Data Manipulation
+### Data Manipulation
 ---
 
 1. Data Cleaning:
@@ -66,6 +66,7 @@ UnitPrice:Seling price of product
 ![LITA PBI PROJECT 4 SALE](https://github.com/user-attachments/assets/ae104513-8676-45d0-a3e4-9f61d77f84dd)
 
 ### Insights
+---
 
 1. Revenue by Product:
 
@@ -137,6 +138,7 @@ These notable revenue spikes in February and June, may be worth investigating fo
 
 
    ### Summary and Recommendations:
+   ---
 
 Product Strategy: Focus on products like Shoes, Gloves, and Socks as they generate both high revenue and quantity.
 Consider promotional efforts to boost sales for low-performing products, such as Jackets and Hats.
