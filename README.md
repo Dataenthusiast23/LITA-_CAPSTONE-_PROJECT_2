@@ -44,7 +44,7 @@ UnitPrice:Seling price of product
 
 2. Data Transformation:
 
-   -Data Types and Formatting:Ensured that all data fields were assigned the correct data types.
+     -Data Types and Formatting:Ensured that all data fields were assigned the correct data types.
 
     - Created new column:
       Revenue: Added new column to sum up the multiplying the quantity column by the unit price column.
