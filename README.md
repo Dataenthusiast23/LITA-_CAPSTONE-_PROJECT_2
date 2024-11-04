@@ -47,5 +47,18 @@ UnitPrice:Seling price of product
    -Data Types and Formatting:Ensured that all data fields were assigned the correct data types.
 
     - Created new column:
-     -- Revenue: Added new column to sum up the multiplying the quantity column by the unit price column.  
+      Revenue: Added new column to sum up the multiplying the quantity column by the unit price column.
+
+
+ ### Tools used
+ ---
+
+   - Microsoft Power BI  [Download Here](https://www.microsoft.com)
+
+ ###  Dashboard Overview
+ ---
+      
+
+       
  
+![LITA PBI PROJECT 4 SALE](https://github.com/user-attachments/assets/ae104513-8676-45d0-a3e4-9f61d77f84dd)
