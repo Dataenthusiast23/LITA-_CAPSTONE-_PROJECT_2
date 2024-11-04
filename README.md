@@ -28,14 +28,16 @@ UnitPrice:Seling price of product
  - NUmber of Unique Customers: 9921
  - Number of Product Category: 6
 
-### Methodology
+## Methodology
 ---
 
 ## Data Collection
+---
 
  The dataset for this analysis was provided by the Incubtor Hub, a Tech Skill training outfits.
 
 ## Data Manipulation
+---
 
 1. Data Cleaning:
 
