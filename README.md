@@ -13,6 +13,7 @@ products, regional performance and monthly Sales trends.
 ---
 
 The dataset includes the following fields:
+
 Customer Id: The unique identity
 OrderDate: Represent the transaction day
 Product: Product of category
@@ -35,7 +36,7 @@ UnitPrice: Seling price of product
 ### Data Collection
 
 
- The dataset for this analysis was provided by LIA under The Incubtor Hub, a Tech Skill training outfits. I received
+ The dataset for this analysis was provided by LITA under The Incubtor Hub, a Tech Skill training outfits. I received the data
  through the LMS in Microsoft Excel [ Download Here](https://www.microsoft.com)                                                      
  https://canvas.instructure.com/courses/10186984/files/folder/Portfolio%20Building%20with%20GitHub%20and%20Introduction%20to%20Power%20BI
 
