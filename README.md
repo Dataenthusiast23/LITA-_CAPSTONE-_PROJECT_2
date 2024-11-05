@@ -165,6 +165,7 @@ This distribution indicates a heavy reliance on the West region for overall sale
 
 
 
+![LITA_SALES_INSIGHT 2png](https://github.com/user-attachments/assets/6fbdeee7-7a82-4d24-b069-46cf7f0b6fdb)
 
 
 
