@@ -122,8 +122,16 @@ UnitPrice: Seling price of product
  
 ![LITA PBI PROJECT 4 SALE](https://github.com/user-attachments/assets/ae104513-8676-45d0-a3e4-9f61d77f84dd)
 
-### Insights
+### Insights Generation
 ---
+
+
+
+
+![LITA_SALES_INSIGHT 1](https://github.com/user-attachments/assets/84e4af23-6369-44ef-8ea8-3722925e1eb0)
+
+
+
 
 1. Revenue by Product:
 
