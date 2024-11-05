@@ -66,11 +66,14 @@ UnitPrice: Seling price of product
  
  ### Data Analysis
  ---
+ Queries in SQL
 
+ -- SQL
+
+     I. 
  
 
-   - Microsoft Power BI  [Download Here](https://www.microsoft.com)
-
+   
  ###  Dashboard Overview
  ---
       
