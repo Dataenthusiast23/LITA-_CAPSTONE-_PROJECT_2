@@ -147,15 +147,15 @@ Jacket and Socks generated the lowest revenue, indicating they may be lower in d
 
 South is the top-performing region, generating 927K in sales, making up the largest share of revenue.
 
-East follows with 486K, while North and South regions trail with 387K and 300K, respectively.
+East follows with 486K, while North and West regions trail with 387K and 300K, respectively.
 
-The West region dominates,maybe due to higher demand or better market penetration.
+The South region dominace, maybe due to higher demand or better market penetration.
 
 
 
 3. Sales Percentage by Region:
 
-West represents the largest portion of sales at 56.66%, while East holds 24.66%.
+South represents the largest portion of sales at 56.66%, while East holds 24.66%.
 
 South and North contribute to a lesser extent, with 10.83% and 8.35%, respectively.
 
