@@ -57,12 +57,13 @@ UnitPrice: Seling price of product
 ### Tools used
 ---
 
-  Microsoft Excel
   Microsoft SQLServer (SMSS): Used for querying 
   Download here :
   https://www.microsoft.com/en-us/sql-server/sql-server-downloads
-
-  
+- Microsoft Power BI  [Download Here](https://www.microsoft.com)
+ 
+ 
+ 
  ### Data Analysis
  ---
 
