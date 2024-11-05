@@ -143,6 +143,10 @@ Jacket and Socks generated the lowest revenue, indicating they may be lower in d
 
 
 
+
+
+
+
 2. Revenue by Region:
 
 South is the top-performing region, generating 927K in sales, making up the largest share of revenue.
@@ -150,6 +154,9 @@ South is the top-performing region, generating 927K in sales, making up the larg
 East follows with 486K, while North and West regions trail with 387K and 300K, respectively.
 
 The South region dominace, maybe due to higher demand or better market penetration.
+
+
+
 
 
 
@@ -165,7 +172,13 @@ This distribution indicates a heavy reliance on the West region for overall sale
 
 
 
+
+
 ![LITA_SALES_INSIGHT 2png](https://github.com/user-attachments/assets/6fbdeee7-7a82-4d24-b069-46cf7f0b6fdb)
+
+
+
+
 
 
 
@@ -182,21 +195,33 @@ Products like Jacket and Socks have lower quantities, aligning with their lower 
 
 
 
+
+
+
+
 5. Current Year Sales (by Month):
 
-February saw the highest sales, with 29K units.
+February saw the highest sales, with 299K.
 
-Sales declined in March (15K) and April (5K) but picked up again by June (148K) and July (174K).
+Sales declined in March (55K) and April (39K) but picked up again by June (148K) and August (174K).
 
 There is a significant fluctuation in monthly sales, which could reflect seasonality or marketing campaigns.
 
 
 
+
+
+
+
+
 6. Quantity Sold by Region:
 
-The East, North, South, and West regions all have similar quantities sold, each around 2,480 units.
+The East, North, South, and West regions all have similar quantities sold, each around 2,000 units.
 
-This even distribution contrasts with the revenue distribution, suggesting that sales in the West region generate higher revenue per unit sold compared to other regions.
+This even distribution contrasts with the revenue distribution, suggesting that sales in the South region generate 
+higher revenue per unit sold compared to other regions.
+
+
 
 
 
@@ -205,6 +230,11 @@ This even distribution contrasts with the revenue distribution, suggesting that 
 
 
 ![LITA-SALES_INSIGHT 3](https://github.com/user-attachments/assets/d7d3c366-b591-47f0-b03e-a9c14b5299bb)
+
+
+
+
+
 
 
 
