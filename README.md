@@ -60,7 +60,7 @@ UnitPrice: Seling price of product
   Microsoft Excel
   Microsoft SQLServer (SMSS): Used for querying 
   Download here :
-  https://www.microsoft.com/en-us/sql-server/sql-server-downloads#:~:text=Express,web%2C%20and%20small%20server%20applications.
+  https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
   
  ### Data Analysis
