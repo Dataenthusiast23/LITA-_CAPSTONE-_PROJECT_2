@@ -15,11 +15,18 @@ products, regional performance and monthly Sales trends.
 The dataset includes the following fields:
 
 Customer Id: The unique identity
+
 OrderDate: Represent the transaction day
+
 Product: Product of category
+
 Quantity: Number of unit of product
+
 Region: Geographical location
+
 UnitPrice: Seling price of product
+
+
 
 ### Basic statistics about the dataset:
 ---
