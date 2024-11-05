@@ -128,7 +128,7 @@ UnitPrice: Seling price of product
 
 
 
-![LITA_SALES_INSIGHT 1](https://github.com/user-attachments/assets/84e4af23-6369-44ef-8ea8-3722925e1eb0)
+![LITA_SALES_INSIGHT 1](https://github.com/user-attachments/assets/abb88d56-19d3-403f-b6ac-7f311c3782dd)
 
 
 
@@ -165,7 +165,7 @@ This distribution indicates a heavy reliance on the West region for overall sale
 
 
 
-![LITA_SALES_INSIGHT 1](https://github.com/user-attachments/assets/abb88d56-19d3-403f-b6ac-7f311c3782dd)
+
 
 
 
