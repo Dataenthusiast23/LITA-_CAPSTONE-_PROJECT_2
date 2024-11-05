@@ -163,6 +163,13 @@ This distribution indicates a heavy reliance on the West region for overall sale
 
 
 
+
+
+![LITA-SALES_INSIGHT 2](https://github.com/user-attachments/assets/9afbc55b-727a-4c0e-bd8a-de0bb49cb6dd)
+
+
+
+
 4. Quantity Sold by Product:
 
 Shoes lead in quantity as well, with approximately 19.6K units sold.
