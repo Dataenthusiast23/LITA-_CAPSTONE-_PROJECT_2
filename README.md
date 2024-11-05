@@ -253,17 +253,17 @@ These notable revenue spikes in February and June, may be worth investigating fo
    ### Summary and Recommendations:
    ---
 
-Product Strategy: Focus on products like Shoes, Gloves, and Socks as they generate both high revenue and quantity.
+Product Strategy: Focus on products like Shoes, Shirts, and Hats as they generate both high revenue and quantity.
 Consider promotional efforts to boost sales for low-performing products, such as Jackets and Hats.
 
-Regional Strategy: Since the West region is a key driver of revenue, consider investing in targeted marketing campaigns 
-in this area. Also, explore ways to increase profitability in the East, North, and South regions, where sales quantity 
+Regional Strategy: Since the South region is a key driver of revenue, consider investing in targeted marketing campaigns 
+in this area. Also, explore ways to increase profitability in the East, North, and West regions, where sales quantity 
 is similar but revenue lags.
 
 Sales Trends: The noticeable peaks in February and June may indicate seasonal demand. Analyze what drives these peaks to 
 capitalize on similar trends in the future.
 
-Revenue Optimization: Investigate why the West region achieves higher revenue per unit and explore replicating those factors 
+Revenue Optimization: Investigate why the South region achieves higher revenue per unit and explore replicating those factors 
 in other regions.
 
 
