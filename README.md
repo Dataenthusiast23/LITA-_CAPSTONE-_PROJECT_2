@@ -135,21 +135,21 @@ UnitPrice: Seling price of product
 
 1. Revenue by Product:
 
-The Shoes product generated the highest revenue, with approximately 630K in sales.
+The Shoes product generated the highest revenue, with approximately 613K in sales.
 
-Gloves and Socks also performed well, bringing in 290K and 270K, respectively.
+Shirts and Hats also performed well, bringing in 486K and 316K, respectively.
 
-Jacket and Hat generated the lowest revenue, indicating they may be lower in demand or less profitable.
+Jacket and Socks generated the lowest revenue, indicating they may be lower in demand or less profitable.
 
 
 
 2. Revenue by Region:
 
-West is the top-performing region, generating 530K in sales, making up the largest share of revenue.
+South is the top-performing region, generating 927K in sales, making up the largest share of revenue.
 
-East follows with 48K, while North and South regions trail with 38K and 30K, respectively.
+East follows with 486K, while North and South regions trail with 387K and 300K, respectively.
 
-The West region dominates, potentially due to higher demand or better market penetration.
+The West region dominates,maybe due to higher demand or better market penetration.
 
 
 
