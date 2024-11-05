@@ -69,23 +69,35 @@ UnitPrice: Seling price of product
  Queries in SQL
 
  -- SQL
-
+```
      i.SELECT Product, SUM(Sales) AS TotalSales
       FROM [dbo].[SALES RECORDS 1]
       GROUP BY Product;
-     
+ ```
+---
+
+```
      ii.SELECT Region, COUNT(*) AS NumberOfTransactions
        FROM [dbo].[SALES RECORDS 1]
        GROUP BY Region;
-     
+  ```
+---
+
+```
      iii.SELECT TOP 1 Product, SUM(Sales) AS TotalSales
         FROM [dbo].[SALES RECORDS 1]
         GROUP BY Product
-     
+```
+---
+
+```
     iv. SELECT Product, SUM(Sales) AS TotalRevenue
         FROM [dbo].[SALES RECORDS 1]
         GROUP BY Product;
-     
+ ```
+---
+
+```
      v.SELECT DATEPART(YEAR,OrderDate) AS YEAR, 
               DATEPART(MONTH,OrderDate) AS MONTH,
               SUM(Sales) AS monyhly_sales
@@ -95,7 +107,7 @@ UnitPrice: Seling price of product
       DATEPART (YEAR, OrderDate),DATEPART (MONTH,OrderDate)
     ORDER BY
        Year, Month;
-     . 
+   ```  . 
  
 
    
