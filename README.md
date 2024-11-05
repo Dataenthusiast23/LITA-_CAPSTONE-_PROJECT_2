@@ -35,8 +35,8 @@ UnitPrice: Seling price of product
 ### Data Collection
 
 
- The dataset for this analysis was provided by LIA under The Incubtor Hub, a Tech Skill training outfits. I was received
- through the LMS in Excel file. See link here:
+ The dataset for this analysis was provided by LIA under The Incubtor Hub, a Tech Skill training outfits. I received
+ through the LMS in Microsoft Excel [ Download Here](https://www.microsoft.com)                                                      
  https://canvas.instructure.com/courses/10186984/files/folder/Portfolio%20Building%20with%20GitHub%20and%20Introduction%20to%20Power%20BI
 
 ### Data Manipulation
@@ -53,9 +53,20 @@ UnitPrice: Seling price of product
     - Created new column:
       Revenue: Added new column to sum up the multiplying the quantity column by the unit price column.
 
+      
+### Tools used
+---
 
- ### Tools used
+  Microsoft Excel
+  Microsoft SQLServer (SMSS): Used for querying 
+  Download here :
+  https://www.microsoft.com/en-us/sql-server/sql-server-downloads#:~:text=Express,web%2C%20and%20small%20server%20applications.
+
+  
+ ### Data Analysis
  ---
+
+ 
 
    - Microsoft Power BI  [Download Here](https://www.microsoft.com)
 
