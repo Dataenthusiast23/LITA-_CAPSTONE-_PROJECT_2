@@ -155,9 +155,9 @@ The South region dominace, maybe due to higher demand or better market penetrati
 
 3. Sales Percentage by Region:
 
-South represents the largest portion of sales at 56.66%, while East holds 24.66%.
+South represents the largest portion of sales at 35.49%, while East holds 29.74%.
 
-South and North contribute to a lesser extent, with 10.83% and 8.35%, respectively.
+North and West contribute to a lesser extent, with 18.12% and 16.65%, respectively.
 
 This distribution indicates a heavy reliance on the West region for overall sales.
 
