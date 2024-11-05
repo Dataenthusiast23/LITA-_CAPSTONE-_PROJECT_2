@@ -28,8 +28,6 @@ UnitPrice: Seling price of product
  - NUmber of Unique Customers: 9921
  - Number of Product Category: 6
 
-### Methodology
----
 
 ### Data Collection
 ---
@@ -43,12 +41,11 @@ UnitPrice: Seling price of product
 
 1. Data Cleaning:
 
-   - Checked for spelling Errors, Duplicate Values and Blank cells: Ensured data quality by correcting any mis-spelt words,
-     removed duplicate entries, and addressing missing values
+   - Checked for spelling Errors, Duplicate Values and Blank cells: Ensured data quality by removing duplicate entries.
 
 2. Data Transformation:
 
-     -Data Types and Formatting:Ensured that all data fields were assigned the correct data types.
+     -Data Types:Ensured that all data fields were assigned the correct data types.
 
     - Created new column:
       Revenue: Added new column to sum up the multiplying the quantity column by the unit price column.
