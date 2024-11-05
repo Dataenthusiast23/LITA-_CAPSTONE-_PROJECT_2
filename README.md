@@ -174,11 +174,11 @@ This distribution indicates a heavy reliance on the West region for overall sale
 
 4. Quantity Sold by Product:
 
-Shoes lead in quantity as well, with approximately 19.6K units sold.
+Hats lead in quantity sold with approximately 15.9K units despite not bringing in the highest revenue.
 
-Gloves and Socks also have high quantities sold, with around 12.4K and 10.4K units.
+Shoes and Shirt also have high quantities sold, with around 14.4K and 12.4k units.
 
-Products like Jacket and Hat have lower quantities, aligning with their lower revenue generation.
+Products like Jacket and Socks have lower quantities, aligning with their lower revenue generation.
 
 
 
