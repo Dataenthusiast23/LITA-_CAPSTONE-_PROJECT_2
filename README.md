@@ -198,6 +198,15 @@ This even distribution contrasts with the revenue distribution, suggesting that 
 
 
 
+
+
+
+
+![LITA-SALES_INSIGHT 3](https://github.com/user-attachments/assets/d7d3c366-b591-47f0-b03e-a9c14b5299bb)
+
+
+
+
 7. Revenue by Month and Year:
 
 Sales peaked in June (247k), indicating a potential seasonal trend or successful marketing efforts.
