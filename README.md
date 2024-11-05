@@ -34,7 +34,9 @@ UnitPrice: Seling price of product
 ### Data Collection
 ---
 
- The dataset for this analysis was provided by the Incubtor Hub, a Tech Skill training outfits.
+ The dataset for this analysis was provided by LIA under The Incubtor Hub, a Tech Skill training outfits. I was received
+ through the LMS in Excel file. See link here:
+ https://canvas.instructure.com/courses/10186984/files/folder/Portfolio%20Building%20with%20GitHub%20and%20Introduction%20to%20Power%20BI
 
 ### Data Manipulation
 ---
