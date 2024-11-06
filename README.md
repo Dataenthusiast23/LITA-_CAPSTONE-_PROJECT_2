@@ -3,6 +3,33 @@ Sales Data: This is where you find the second report of my capstone project with
 
 ## Sales Store Analysis Report
 
+[Introduction](#introduction)
+
+[Data Source](#data-source)
+
+[Data Description](#data-description)
+
+[Basic statistics about the dataset](#basic-statistics-about-the-dataset)
+
+[Methodology](#methodology)
+
+[Tools used](#tools-used)
+
+[Data Analysis](#data-analysis)
+
+[Dashboard Overview](#dashboard-overview)
+
+[Insights Generation](#insights-generation)
+
+[Summary and Recommendations](#summary-and-recommendations)
+
+
+
+
+
+
+
+
 ### Introduction
 ---
 
@@ -37,7 +64,7 @@ UnitPrice: Seling price of product
  - Number of Product Category: 6
 
 
- ## Methodology:
+### Methodology:
  ---
  
 ### Data Collection
