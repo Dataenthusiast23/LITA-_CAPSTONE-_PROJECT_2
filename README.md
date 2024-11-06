@@ -36,6 +36,19 @@ Sales Data: This is where you find the second report of my capstone project with
 This project is tasked with analyzing the sales performance of a retail store, to gain insight such as top- selling 
 products, regional performance and monthly Sales trends. 
 
+
+### Data Source
+---
+
+The primary source of the Data used here was received from LITA_The_Incubator_Hub 
+LMS which I downloaded into my System for the analysis. It is an Excel File
+
+Find link to file here:
+https://canvas.instructure.com/courses/10186984/files/folder/Portfolio
+
+
+
+
 ### Data Description
 ---
 
