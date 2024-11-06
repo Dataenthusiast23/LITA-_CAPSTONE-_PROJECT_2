@@ -41,7 +41,8 @@ products, regional performance and monthly Sales trends.
 ---
 
 The primary source of the Data used here was received from LITA_The_Incubator_Hub 
-LMS which I downloaded into my System for the analysis. It is an Excel File
+LMS which I downloaded into my System for the analysis. 
+It is a Microsoft Excel [ Download Here](https://www.microsoft.com)   
 
 Find link to file here:
 https://canvas.instructure.com/courses/10186984/files/folder/Portfolio
@@ -80,12 +81,6 @@ UnitPrice: Seling price of product
 ### Methodology:
  ---
  
-### Data Collection
-
-
- The dataset for this analysis was provided by LITA under The Incubtor Hub, a Tech Skill training outfits. I received the data
- through the LMS in Microsoft Excel [ Download Here](https://www.microsoft.com)                                                      
- https://canvas.instructure.com/courses/10186984/files/folder/Portfolio%20Building%20with%20GitHub%20and%20Introduction%20to%20Power%20BI
 
 ### Data Manipulation
 
