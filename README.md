@@ -1,7 +1,7 @@
 # LITA_CAPSTONE_PROJECT_2
-Sales Data: This is where you find the second report of my capstone project with the Incubator Hub 
+ This is where you find the second report of my capstone project with the Incubator Hub 
 
-## Sales Store Analysis Report
+##  Project Title: Sales Store Analysis Report
 
 [Introduction](#introduction)
 
